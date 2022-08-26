@@ -1,8 +1,8 @@
 # PHPStan Toolbox for PhpStorm
 
 ![Build](https://github.com/shyim/idea-phpstan-toolbox/workflows/Build/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
+[![Version](https://img.shields.io/jetbrains/plugin/v/19791.svg)](https://plugins.jetbrains.com/plugin/19791)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/19791.svg)](https://plugins.jetbrains.com/plugin/19791)
 
 <!-- Plugin description -->
 PHPStan Toolbox indexes the root `phpstan-baseline.neon` and shows in the files that there are errors ignored.
