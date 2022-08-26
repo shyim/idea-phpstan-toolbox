@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.shyim.ideaphpstantoolbox.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.shyim.ideaphpstantoolbox.MyBundle
 
 class MyApplicationService {
 
