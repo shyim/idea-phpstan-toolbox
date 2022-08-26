@@ -39,11 +39,11 @@ class PhpstanIgnoreIndexTest : BasePlatformTestCase() {
             ).first()
 
         assertEquals(3, controller.errors)
-        assertEquals(3, controller.start)
-        assertEquals(10, controller.end)
+        assertEquals(2, controller.start)
+        assertEquals(9, controller.end)
 
         assertEquals(1, deprecation.errors)
-        assertEquals(12, deprecation.start)
-        assertEquals(15, deprecation.end)
+        assertEquals(11, deprecation.start)
+        assertEquals(14, deprecation.end)
     }
 }
