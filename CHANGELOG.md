@@ -2,6 +2,9 @@
 
 # idea-phpstan-toolbox Changelog
 
-## [Unreleased]
+## Unreleased
+
+## 0.0.4 - 2023-05-28
+
 ### Added
-- Initial scaffold created from [IntelliJ Platform Plugin Template](https://github.com/JetBrains/intellij-platform-plugin-template)
+- Allow latest EAP
