@@ -4,6 +4,9 @@
 
 ## Unreleased
 
+## 0.0.6 - 2023-10-02
+Fix package name
+
 ## 0.0.5 - 2023-10-02
 - Support newest EAP
 
