@@ -4,6 +4,9 @@
 
 ## Unreleased
 
+## 0.0.5 - 2023-10-02
+- Support newest EAP
+
 ## 0.0.4 - 2023-05-28
 
 ### Added
